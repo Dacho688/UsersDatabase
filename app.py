@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep  3 19:32:57 2025
-
-@author: rkram
-"""
-
 import sqlite3
 import gradio as gr
 
