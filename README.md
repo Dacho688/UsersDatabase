@@ -1,6 +1,6 @@
 ---
 title: User Management with SQLite
-emoji: 🖼️
+emoji: 🛢
 colorFrom: blue
 colorTo: yellow
 sdk: gradio
